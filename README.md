@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arghyadip Roy</h1>
 <h3 align="center">I am a Front-end Developer</h3>
 
-- 🔭 I’m currently working on **REACT SPRING BOOT**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Full Stack Web development**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arghyadip-1234](https://github.com/arghyadip-1234)
 
